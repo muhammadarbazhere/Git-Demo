@@ -2,11 +2,11 @@
 
 #HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
 <br/>
-     git clone <-link of respository we wanted to clone->             <br/>                  
+     git clone <-link of respository we wanted to clone->                             
      git status              (to check to status of respository)                  
      git add index.html      (to add a change in git)                                     
      git add .               (to add all changes in git)                                       
-     git commit -m "your comment here"       (to commit changes in git)                   <br/>               
+     git commit -m "your comment here"       (to commit changes in git)                                 
 
      git branch              (to check the branch   like main or master etc)                     <br/>
                         (if git branch name is *master   we can change it by)                    <br/>
