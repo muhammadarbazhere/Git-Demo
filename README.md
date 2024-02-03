@@ -1,6 +1,6 @@
    git --version       (to check the version of git)               
 
-HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
+#HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
 
    git clone <-link of respository we wanted to clone->             <br/>                  
    git status              (to check to status of respository)           <br/>       
@@ -14,7 +14,7 @@ HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?
    git push origin main    (main or other branch name in which you want to push code)                <br/>
 
 
-HOW TO ADD A NEW RESPOSITORY?                                                  <br/>
+#HOW TO ADD A NEW RESPOSITORY?                                                  <br/>
 
   make a new respository on github  like  arbaz-new                       <br/>
   now make a folder of any name on your local machine then                              <br/>
@@ -24,7 +24,7 @@ HOW TO ADD A NEW RESPOSITORY?                                                  <
  then same as above in cloning 
 
 
-HOW TO MAKE MULTILE BRANCHES?                                      
+#HOW TO MAKE MULTILE BRANCHES?                                      
 
     git branch          (to check the branch name)
     git branch -M main  (to rename the branch name)
