@@ -5,7 +5,7 @@ In visual studio code, Open the new terminal then
 #HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                 <br/>                 
 
      git clone <-link of respository we wanted to clone->                             
-     git status              (to check to status of respository)                  
+     git status              (to check to status of respository weather the git is initialized or not)                  
      git add index.html      (to add a change in git)                                     
      git add .               (to add all changes in git)                                       
      git commit -m "your comment here"       (to commit changes in git)                                 
@@ -20,6 +20,7 @@ In visual studio code, Open the new terminal then
   make a new respository on github  like  arbaz-new                       <br/>
   now make a folder of any name on your local machine then                              <br/>
 
+     git status (as we make new folder so we will initialize git first by git init)
      git init  (to initialize git in the folder)                               
      git remote add origin <-link of arbaz-new respository->        (to add code to the repo we made on github.com/...)
  then same as above in cloning 
