@@ -2,10 +2,10 @@
 
 HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
 
-   git clone <link of respository we wanted to clone>              <br/>                  
+   git clone <-link of respository we wanted to clone->             <br/>                  
    git status              (to check to status of respository)           <br/>       
-   git add index.html      (to add a change in git)                           <br/>          
-   git add .               (to add all changes in git)                             <br/>          
+   git add index.html      (to add a change in git)                                     
+   git add .               (to add all changes in git)                                       
    git commit -m "your comment here"       (to commit changes in git)                   <br/>               
 
    git branch              (to check the branch   like main or master etc)                     <br/>
@@ -20,7 +20,7 @@ HOW TO ADD A NEW RESPOSITORY?                                                  <
   now make a folder of any name on your local machine then                              <br/>
 
    git init  (to initialize git in the folder)                                <br/>
-   git remote add origin <link of arbaz-new respository>        (to add code to the repo we made on git/muhammad.arbazhere)
+   git remote add origin <-link of arbaz-new respository->        (to add code to the repo we made on git/muhammad.arbazhere)
  then same as above in cloning 
 
 
