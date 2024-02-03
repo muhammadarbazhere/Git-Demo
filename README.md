@@ -1,20 +1,17 @@
-   git --version       (to check the version of git)                <br/>
+   git --version       (to check the version of git)               
 
-HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                      <br/>
+HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
 
-   git clone <link of respository we wanted to clone>                     <br/>
-   git status              (to check to status of respository)                   <br/>
-   git add index.html      (to add a change in git)                                      <br/>
-   git add .               (to add all changes in git)                                       <br/>
-
-   git commit -m "your comment here"       (to commit changes in git)                                   <br/>
+   git clone <link of respository we wanted to clone>                     
+   git status              (to check to status of respository)                  
+   git add index.html      (to add a change in git)                                     
+   git add .               (to add all changes in git)                                       
+   git commit -m "your comment here"       (to commit changes in git)                                  
 
    git branch              (to check the branch   like main or master etc) 
                         (if git branch name is *master   we can change it by)
    git branch -M main      (to rename the branch from master to main)
    git push origin main    (main or other branch name in which you want to push code)    
-
-
 
 
 HOW TO ADD A NEW RESPOSITORY?
@@ -27,9 +24,6 @@ HOW TO ADD A NEW RESPOSITORY?
  then same as above in cloning 
 
 
-
-
-
 HOW TO MAKE MULTILE BRANCHES?
 
     git branch          (to check the branch name)
@@ -39,8 +33,6 @@ HOW TO MAKE MULTILE BRANCHES?
     git checkout -b <new branch name>    (to create new branch)
 
     git branch -d <branch name>    (to delete a specific branch)         
-
-
 
 
 WHAT ARE FORKS?
