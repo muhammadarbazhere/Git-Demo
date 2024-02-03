@@ -35,9 +35,10 @@
     git branch -d <branch name>    (to delete a specific branch)         
 
 <br/>
-WHAT ARE FORKS?
 
-If we want to to add a repo which is on another person's account  <br/>
+#WHAT ARE FORKS?
+
+            If we want to to add a repo which is on another person's account  <br/>
 then we can fork that repo
 by forking that repo,                 <br/>
 it will be added directl
