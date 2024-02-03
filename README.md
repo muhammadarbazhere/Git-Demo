@@ -3,7 +3,7 @@
 #HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
 
    git clone <-link of respository we wanted to clone->             <br/>                  
-   git status              (to check to status of respository)           <br/>       
+   git status              (to check to status of respository)                  
    git add index.html      (to add a change in git)                                     
    git add .               (to add all changes in git)                                       
    git commit -m "your comment here"       (to commit changes in git)                   <br/>               
