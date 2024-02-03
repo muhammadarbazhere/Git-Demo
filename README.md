@@ -1,3 +1,5 @@
+In visual studio code, Open the new terminal then
+       
        git --version       (to check the version of git)               
 
 #HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                 <br/>                 
