@@ -1,7 +1,7 @@
    git --version       (to check the version of git)               
 
 #HOW TO CLONE A RESPOSITORY ON OUR LOCAL MACHINE?                     
-
+<br/>
    git clone <-link of respository we wanted to clone->             <br/>                  
    git status              (to check to status of respository)                  
    git add index.html      (to add a change in git)                                     
@@ -13,7 +13,7 @@
    git branch -M main      (to rename the branch from master to main)                               <br/>
    git push origin main    (main or other branch name in which you want to push code)                <br/>
 
-
+<br/>
 #HOW TO ADD A NEW RESPOSITORY?                                                  <br/>
 
   make a new respository on github  like  arbaz-new                       <br/>
@@ -34,7 +34,7 @@
 
     git branch -d <branch name>    (to delete a specific branch)         
 
-
+<br/>
 WHAT ARE FORKS?
 
 If we want to to add a repo which is on another person's account  <br/>
