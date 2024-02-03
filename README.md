@@ -38,6 +38,20 @@ In visual studio code, Open the new terminal then
 
 <br/>
 
+#Undoing Changes       <br/>
+
+Case 1: staged changes
+     git reset <-file name->  (to reSet changes in a specific file) 
+     git reset               (to reSet changes in all files)
+
+Case 2: commited changes (not reset whole changes JUST get back to last commit)
+     git reset HEAD~1
+
+Case 3: commited changes  (get back to any or many commits)
+     git reset <-commit hash->              (we can get all commit hashes or history of commit by   git log   )
+     git reset --hard<-commit hash->       (it will not just remove commit from github but also from vs code)
+
+
 #WHAT ARE FORKS?
 
 If we want to to add a repo which is on another person's account  <br/>
