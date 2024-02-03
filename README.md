@@ -42,10 +42,10 @@ In visual studio code, Open the new terminal then
 
 Case 1: staged changes <br/>                                                                     
                   git reset <-file name->  (to reSet changes in a specific file)   <br/>
-                  git reset               (to reSet changes in all files)              <br/>
+                  git reset               (to reSet changes in all files)              <br/> <br/>
 
 Case 2: commited changes (not reset whole changes JUST get back to last commit)           <br/>
-       <br/>         git reset HEAD~1                             <br/>
+              git reset HEAD~1                             <br/>
 
 Case 3: commited changes  (get back to any or many commits)                   <br/>
      git reset <-commit hash->              (we can get all commit hashes or history of commit by   git log   )    <br/>
