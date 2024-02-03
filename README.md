@@ -52,6 +52,7 @@ Case 3: commited changes  (get back to any or many commits)                   <b
                   git reset --hard<-commit hash->       (it will not just remove commit from github but also from vs code)          <br/>
 
 
+<br/>
 #WHAT ARE FORKS?
 
 If we want to to add a repo which is on another person's account  <br/>
