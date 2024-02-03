@@ -40,9 +40,9 @@ In visual studio code, Open the new terminal then
 
 #Undoing Changes       <br/>
 
-Case 1: staged changes <br/>
-     git reset <-file name->  (to reSet changes in a specific file)   <br/>
-     git reset               (to reSet changes in all files)              <br/>
+Case 1: staged changes <br/>                                                                     
+                  git reset <-file name->  (to reSet changes in a specific file)   <br/>
+                  git reset               (to reSet changes in all files)              <br/>
 
 Case 2: commited changes (not reset whole changes JUST get back to last commit)           <br/>
      git reset HEAD~1                             <br/>
