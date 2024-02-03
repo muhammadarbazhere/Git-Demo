@@ -22,7 +22,7 @@ In visual studio code, Open the new terminal then
 
      git status (as we make new folder so we will initialize git first by git init)
      git init  (to initialize git in the folder)                               
-     git remote add origin <-link of arbaz-new respository->        (to add code to the repo we made on github.com/...)
+     git remote add origin <-link of arbaz-new respository->     (to attach this folder to repo we made on github.com/...)
  then same as above in cloning 
 
 
