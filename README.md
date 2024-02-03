@@ -19,7 +19,7 @@
   now make a folder of any name on your local machine then                              <br/>
 
      git init  (to initialize git in the folder)                                <br/>
-     git remote add origin <-link of arbaz-new respository->        (to add code to the repo we made on git/muhammad.arbazhere)
+     git remote add origin <-link of arbaz-new respository->        (to add code to the repo we made on github.com/...)
  then same as above in cloning 
 
 
